@@ -7,7 +7,7 @@
 
 //Definir credenciales de Adafruit y WiFi
 #define IO_USERNAME "Leytha"
-#define IO_KEY "aio_VaMQ99YZmOkPh1sAyDk8J2wecb3J"
+#define IO_KEY "..."
 #define WIFI_SSID "CidercarNava"
 #define WIFI_PASS "tecnologia4eso"
 #define INTERVALO_ENVIO 2000
